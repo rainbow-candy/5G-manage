@@ -15,7 +15,7 @@
     "echarts": "^4.7.0",
     "element-ui": "^2.4.5",
     "jwt-decode": "^2.2.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "v-charts": "^1.19.0",
     "vue": "^2.6.11",
     "vue-router": "^3.0.7"
